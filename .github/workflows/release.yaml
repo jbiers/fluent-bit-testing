@@ -6,7 +6,7 @@ on:
       - "*"
 
 env:
-  ORIGINAL_IMAGE: fluent/fluent-bit
+  ORIGINAL_IMAGE: rancher/fluent-bit
   RANCHER_IMAGE: jbiers/fluent-bit ## to be changed to rancher/fluent-bit
 
 jobs:
